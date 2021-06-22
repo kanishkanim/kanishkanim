@@ -41,10 +41,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
  -->
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kanishkanim.kanishkanim)
-   <br />
-   <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanishkanim&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
@@ -54,6 +50,12 @@
 </a>
 
 <br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kanishkanim.kanishkanim)
+   <br />
+   <br />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanishkanim&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
