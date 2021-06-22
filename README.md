@@ -56,5 +56,5 @@
 <a href="https://www.linkedin.com/in/kanishkanim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kanishka%20Nim-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/kanishkanim"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kanishkanim-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:kanishkanimnsit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kanishkanimnsit@gmail.com-blue?style=flat-square&logo=gmail"></a>
- <a href="https://www.twitter.com/kanishkanim"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-kanishkanim-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://www.twitter.com/kanishkanim"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-kanishkanim-blue?style=flat-square&logo=twitter"></a>
 </p>
