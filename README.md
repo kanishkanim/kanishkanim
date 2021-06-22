@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Undergraduate at Netaji Subhas Institute of Technology.
 - 🤓 &nbsp; I am a Web Developer and exploring new technologies such as Artificial Intelligence and Machine Learning.
 - 🎯 &nbsp; Love to solve problems consistently by brainstorming different applications of Data Structures and Algorithms.
-- ☕ &nbsp; Spend most of time in coding with Java!
+- ☕ &nbsp; Spend most of my time in coding with Java!
 - 🌱 &nbsp; Learning more about Computer fundamentals such as DataBases, Operating Systems and Computer Networks.
 - ✍️ &nbsp; Pursuing Content Writing and Painting as hobbies/side hustles.
 
