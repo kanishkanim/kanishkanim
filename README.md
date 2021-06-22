@@ -1,6 +1,4 @@
-<h1> ✌ </h1>
-
-<h2> Hey there! I'm Kanishka. </h2>
+<h1> Hey there! I'm Kanishka. ✌ </h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
