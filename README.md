@@ -41,16 +41,16 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
  -->
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kanishkanim.kanishkanim)
+   <br />
+   <br />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanishkanim&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
 <br/>
 
 <a href="https://github.com/kanishkanim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kanishkanim&theme=buefy&show_icons=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkanim&theme=buefy&layout=compact" />
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kanishkanim.kanishkanim)
-   <br />
-   <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanishkanim&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
 </a>
 
 <br/>
