@@ -1,20 +1,19 @@
 <!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
  -->
-<h2> Hey there! I'm Kanishka.</h2>
+<h2> Hey there! I'm Kanishka. </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Undergraduate at Netaji Subhas Institute of Technology.
-- 🤓 &nbsp; I am a Web Developer and exploring new technologies such as Artificial Intelligence and Machine Learning.
+- 🎓 &nbsp; Undergraduate at **Netaji Subhas Institute of Technology**.
+- 🤓 &nbsp; I am a **Web Developer** and exploring new technologies such as Artificial Intelligence and Machine Learning.
 - 🎯 &nbsp; Love to solve problems consistently by brainstorming different applications of Data Structures and Algorithms.
-- ☕ &nbsp; Spend most of my time in coding with Java!
+- ☕ &nbsp; Spend most of my time in coding with **Java!**
 - 🌱 &nbsp; Learning more about Computer fundamentals such as DataBases, Operating Systems and Computer Networks.
 - ✍️ &nbsp; Pursuing Content Writing and Painting as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
