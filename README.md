@@ -42,9 +42,9 @@
  -->
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/kanishkanim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kanishkanim&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkanim&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -53,7 +53,7 @@
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/kanishkanim"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kanishka%20Nim-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kanishkanim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kanishka%20Nim-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/kanishkanim"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kanishkanim-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:kanishkanimnsit@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kanishkanimnsit@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
